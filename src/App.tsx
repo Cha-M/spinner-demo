@@ -71,14 +71,14 @@ const SpinnerWrong: FC = () => (
     className="Spinner-wrong"
   >
     <g transform="translate(0 .922)">
-      <circle cx="6.521" cy="6.521" r="2.646" />
-      <circle cx="25.229" cy="6.521" r="2.646" />
-      <circle cx="6.521" cy="25.229" r="2.646" />
-      <circle cx="25.229" cy="25.229" r="2.646" />
-      <circle cx="15.875" cy="2.646" r="3.568" />
-      <circle cx="15.875" cy="29.104" r="2.646" />
-      <circle cx="2.646" cy="15.875" r="2.646" />
-      <circle cx="29.104" cy="15.875" r="2.646" />
+      <circle cx="6.521" cy="6.521" r="2.4" />
+      <circle cx="25.229" cy="6.521" r="2.4" />
+      <circle cx="6.521" cy="25.229" r="1.646" />
+      <circle cx="25.229" cy="25.229" r="1.646" />
+      <circle cx="15.875" cy="2.646" r="3.4" />
+      <circle cx="15.875" cy="29.104" r="1.3" />
+      <circle cx="2.646" cy="15.875" r="2" />
+      <circle cx="29.104" cy="15.875" r="2" />
     </g>
   </svg>
 );
