@@ -86,7 +86,6 @@ const SpinnerWrong: FC = () => (
 const App: FC = () => (
   <div
     style={{
-      width: "100vw",
       display: "flex",
       flexDirection: "column",
       justifyContent: "center",
@@ -96,10 +95,10 @@ const App: FC = () => (
     <h2 style={{ marginBottom: "20px" }}>Two SVG spinners...</h2>
     <div
       style={{
-        width: "14vw",
         display: "flex",
         flexDirection: "row",
         justifyContent: "space-between",
+        border: "black 2pt",
       }}
     >
       <div
