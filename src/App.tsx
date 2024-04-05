@@ -98,7 +98,7 @@ const App: FC = () => (
         display: "flex",
         flexDirection: "row",
         justifyContent: "space-between",
-        border: "black 2pt",
+        fontSize: "30pt",
       }}
     >
       <div
@@ -107,7 +107,6 @@ const App: FC = () => (
           flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
-          fontSize: "30pt",
         }}
       >
         <SpinnerWrong />
@@ -119,7 +118,6 @@ const App: FC = () => (
           flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
-          fontSize: "30pt",
         }}
       >
         <Spinner />
