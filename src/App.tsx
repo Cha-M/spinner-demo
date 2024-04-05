@@ -107,6 +107,7 @@ const App: FC = () => (
           flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
+          marginRight: "10px",
         }}
       >
         <SpinnerWrong />
@@ -118,6 +119,7 @@ const App: FC = () => (
           flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
+          marginLeft: "10px",
         }}
       >
         <Spinner />
