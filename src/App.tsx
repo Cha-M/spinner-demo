@@ -11,50 +11,50 @@ const Spinner: FC = () => (
   >
     <g strokeWidth="0">
       <circle
-        cx="15.875"
-        cy="2.646"
+        cx="50%"
+        cy="8.333%"
         r="2.646"
         className="Spinner-correct-top"
       ></circle>
       <circle
-        cx="25.229"
-        cy="6.521"
+        cx="80%"
+        cy="20%"
         r="2.646"
         className="Spinner-correct-top-right"
       ></circle>
       <circle
-        cx="29.104"
-        cy="15.875"
+        cx="91.666%"
+        cy="50%"
         r="2.646"
         className="Spinner-correct-right"
       ></circle>
       <circle
-        cx="25.229"
-        cy="25.229"
+        cx="80%"
+        cy="80%"
         r="2.646"
         className="Spinner-correct-bottom-right"
       ></circle>
       <circle
-        cx="15.875"
-        cy="29.104"
+        cx="50%"
+        cy="91.666%"
         r="2.646 "
         className="Spinner-correct-bottom"
       ></circle>
       <circle
-        cx="6.521"
-        cy="25.229"
+        cx="20%"
+        cy="80%"
         r="2.646"
         className="Spinner-correct-bottom-left"
       ></circle>
       <circle
-        cx="2.646"
-        cy="15.875"
+        cx="8.333%"
+        cy="50%"
         r="2.646"
         className="Spinner-correct-left"
       ></circle>
       <circle
-        cx="6.521"
-        cy="6.521"
+        cx="20%"
+        cy="20%"
         r="2.646"
         className="Spinner-correct-top-left"
       ></circle>
