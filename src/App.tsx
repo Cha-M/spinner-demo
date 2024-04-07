@@ -13,49 +13,49 @@ const Spinner: FC = () => (
       <circle
         cx="50%"
         cy="8.333%"
-        r="2.646"
+        r="2.1%"
         className="Spinner-correct-top"
       ></circle>
       <circle
         cx="80%"
         cy="20%"
-        r="2.646"
+        r="2.1%"
         className="Spinner-correct-top-right"
       ></circle>
       <circle
         cx="91.666%"
         cy="50%"
-        r="2.646"
+        r="2.1%"
         className="Spinner-correct-right"
       ></circle>
       <circle
         cx="80%"
         cy="80%"
-        r="2.646"
+        r="2.1%"
         className="Spinner-correct-bottom-right"
       ></circle>
       <circle
         cx="50%"
         cy="91.666%"
-        r="2.646 "
+        r="2.1%"
         className="Spinner-correct-bottom"
       ></circle>
       <circle
         cx="20%"
         cy="80%"
-        r="2.646"
+        r="2.1%"
         className="Spinner-correct-bottom-left"
       ></circle>
       <circle
         cx="8.333%"
         cy="50%"
-        r="2.646"
+        r="2.1%"
         className="Spinner-correct-left"
       ></circle>
       <circle
         cx="20%"
         cy="20%"
-        r="2.646"
+        r="2.1%"
         className="Spinner-correct-top-left"
       ></circle>
     </g>
